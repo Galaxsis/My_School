@@ -7,7 +7,7 @@
 {
     float: left;
     width: 25%;
-    padding: 1px;
+    padding: 5px;
     border: 1px solid #c7c7c7;   
 }
 .row::after
@@ -37,4 +37,7 @@
     margin-bottom: 15px;
     width: 100%;
     display: inline-block;
+}
+.details{
+    align-content: center;
 }
